@@ -1,3 +1,5 @@
 baseurl: /jekyll_demo
+url: "https://sitingren.github.io"
 name: Text_config_name
 markdown: kramdown
+
